@@ -1,0 +1,8 @@
+table th, td{
+    border:solid rgb(0,0,0);
+    width: 800px;
+    height: 100px;
+}
+body{
+    background-color: white;
+}
